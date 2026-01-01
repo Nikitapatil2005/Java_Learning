@@ -14,5 +14,6 @@ public class PosNegZero {
         else{
             System.out.println("Number is positive");
         }
+        sc.close();
     }
 }

@@ -13,6 +13,6 @@ public class EvenOdd {
         else{
             System.out.println("Number is not even");
         }
-
+    sc.close();
     }
 }

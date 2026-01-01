@@ -9,6 +9,6 @@ public class printevenfrom1toN {
                 System.out.println(i);
             }
         }
-       
+       sc.close();
     }
 }

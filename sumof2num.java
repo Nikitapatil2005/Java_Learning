@@ -8,5 +8,6 @@ public class sumof2num {
         int b = sc.nextInt();
         int c = (a+b);
         System.out.println("The Sum of Two Numbers is"+c);
+        sc.close();
     }
 }

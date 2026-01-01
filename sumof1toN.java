@@ -18,5 +18,6 @@ public class sumof1toN {
          i++;
          }
          System.out.println("Sum is"+sum);
+         sc.close();
      }
 }
