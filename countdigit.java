@@ -11,5 +11,6 @@ public class countdigit{
             count++;
         } 
         System.out.println("" +count);
+        sc.close();
     }
 }
